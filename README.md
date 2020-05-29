@@ -1,2 +1,2 @@
 # assignments-test-1
-First test repository
+This repository is for testing GitHub classroom

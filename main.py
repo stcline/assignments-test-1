@@ -1,3 +1,3 @@
-#Use the print command to display a message in the window
+#Use the print command to display "Hello, World!" in the window.
 
 print()
